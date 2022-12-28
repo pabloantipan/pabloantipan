@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pabloantipan
-- 👀 I’m interested in web development, cloud engineering
-- 🌱 I’m currently learning Python, Nodejs, JavaScript
+- 👀 I’m interested in web development, cloud engineering, cloud architecture
+- 🌱 I’m currently learning DDD, GCP, Cloud Engineering, JS, Go
 - 💞️ I’m looking to collaborate on nothing right now, but ... 
 - 📫 How to reach me antipan.pablo@gmail.com
 
